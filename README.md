@@ -3,7 +3,7 @@ A miscellaneous Python module for all of the things that I wish were features of
 
 ---
 
-Currently included commands:
+Currently included functions:
 ---
 
 ```python
