@@ -1,5 +1,16 @@
 # dev-nekoboi's Python Module
-A miscellaneous Python module for all of the things that I wish were features of Python without having to program them myself.
+A miscellaneous Python module for all of the functions that I wish were Python features.
+
+---
+
+Contact information:
+---
+
+To report any bugs that you find, please email [dev@nekoboi.com](mailto:dev@nekoboi.com) with the subject line `github:dn-python-module:bugs`.
+
+To submit a suggestion for a function to add to the module, please email [dev@nekoboi.com](mailto:dev@nekoboi.com) with the subject line: `github:dn-python-module:suggestion`.
+
+For any other topic related to this repository and the module packaged within, please email [dev@nekoboi.com](mailto:dev@nekoboi.com) with the subject line: `github:dn-python-module:misc`.
 
 ---
 
