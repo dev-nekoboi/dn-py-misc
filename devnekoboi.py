@@ -16,5 +16,5 @@ def canBe(val, type):
         return False
     return True
 
-def root(base, exp):
-    return base ** (1 / exp)
+def root(base, index=2):
+    return base ** (1 / index)
