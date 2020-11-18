@@ -30,3 +30,10 @@ canBe(val, type)
 This function will return a boolean value of `True` if `val` is an instance of `type` _or_ if `val` can be successfully converted _into_ an instance of `type`, and `False` otherwise. Both parameters are required.
 
 Note: due to the nature of the function definition, it is likely that should either parameter be omitted, the function would return `True`. This has the potential to cause runtime errors, and should be conisdered carefully.
+
+---
+
+```python
+root(base, index)
+```
+This function will return `base` to the `index`th root. The `base` parameter is required. The `index` parameter is optional, and will default to `2`.
