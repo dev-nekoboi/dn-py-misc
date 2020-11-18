@@ -15,3 +15,6 @@ def canBe(val, type):
     except ValueError:
         return False
     return True
+
+def root(base, exp):
+    return base ** (1 / exp)
