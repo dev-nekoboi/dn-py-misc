@@ -29,7 +29,7 @@ canBe(val, type)
 ```
 This function will return a boolean value of `True` if `val` is an instance of `type` _or_ if `val` can be successfully converted _into_ an instance of `type`, and `False` otherwise. Both parameters are required.
 
-Note: due to the nature of the function definition, it is likely that should either parameter be omitted, the function would return `True`. This has the potential to cause runtime errors, and should be conisdered carefully.
+Note: if converting `val` to an instance of `type` via `type(val)` does not produce the `ValueError` exception, and `val` is not already an instance of `type`, the function _will_ return `True`. Consider this carefully when designing constructors for custom types, as it has the potential to cause runtime errors.
 
 ---
 
