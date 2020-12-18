@@ -6,15 +6,15 @@ A miscellaneous Python module for all of the functions that I wish were Python f
 Contact information:
 ---
 
-To report any bugs that you find, please email [dev@nekoboi.com](mailto:dev@nekoboi.com) with the subject line `github:dn-python-module:bugs`.
+To report any bugs that you find, please email [dev@nekoboi.com](mailto:dev@nekoboi.com) with the subject line `github:dn-py-misc:bugs`.
 
-To submit a suggestion for a function to add to the module, please email [dev@nekoboi.com](mailto:dev@nekoboi.com) with the subject line: `github:dn-python-module:suggestion`.
+To submit a suggestion for a function to add to the module, please email [dev@nekoboi.com](mailto:dev@nekoboi.com) with the subject line: `github:dn-py-misc:suggestion`.
 
-For any other topic related to this repository and the module packaged within, please email [dev@nekoboi.com](mailto:dev@nekoboi.com) with the subject line: `github:dn-python-module:misc`.
+For any other topic related to this repository and the module packaged within, please email [dev@nekoboi.com](mailto:dev@nekoboi.com) with the subject line: `github:dn-py-misc:misc`.
 
 ---
 
-Currently included functions:
+Documentation:
 ---
 
 ```python
